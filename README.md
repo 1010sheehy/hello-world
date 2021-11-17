@@ -7,5 +7,4 @@ Once you're done, submit a pull request (do NOT commit directly to the main bran
 
 Kirsten:
 1. I was burned in a terrible picle accident
-2. I was hit by a taco truck (and got a free taco)
 3. As a child, my uncle would give me liver pate for christmas
